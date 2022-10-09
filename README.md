@@ -46,6 +46,7 @@ $ rbs -I vendor/rbs/gem_rbs_collection/gems/redis/4.2 list
 If you load RBS files with directory path, it loads everything in the directory.
 This is different from when loading RBS files with library name that ignores directories starting with `_` (underscore).
 
+
 ## How to contribute
 
 See [CONTRIBUTING.md](docs/CONTRIBUTING.md)
