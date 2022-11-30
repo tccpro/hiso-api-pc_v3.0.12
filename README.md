@@ -7,6 +7,7 @@ This is a community managed collection of RBS files for gems which ships without
 
 ## Loading RBS from the repository
 
+
 `git submodule` is the easiest way to import this collection to your project.
 
 ```
